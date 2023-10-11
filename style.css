@@ -1,0 +1,47 @@
+body {
+    min-height: 100vh;
+    background: #FFF;
+}
+
+header{
+    background: #213C70;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+hr {
+    width: 91%;
+    height: 1px;
+    background: #213C70;
+}
+
+footer{
+    background: #213C70;
+}
+
+.imgfit{
+    object-fit: cover;
+}
+
+h2{
+    color: #213C70;
+    text-align: center;
+}
+
+#mediatype{
+    color: black;
+    font-weight: bold;
+}
+
+.divMain{
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.mainimg {
+    width: 400px;
+  }
